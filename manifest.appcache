@@ -1,7 +1,11 @@
 CACHE MANIFEST
 #DATE 2017-02-02
 CACHE:
-img
+img/rusaliova.jpg
+img/profilepic.jpg
+img/Ilya.jpg
+img/2048.jpg
+img/gadget.jpg
 NETWORK:
 *
 FALLBACK:
