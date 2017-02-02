@@ -1,6 +1,6 @@
 CACHE MANIFEST
 #DATE 2017-02-02
-#version 0.1
+
 CACHE:
 index.html
 js/perfmatters.js
@@ -10,6 +10,7 @@ img/Ilya.jpg
 img/2048.jpg
 img/gadget.jpg
 css/print.css 
+
 NETWORK:
 *
 FALLBACK:
